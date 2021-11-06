@@ -1,2 +1,2 @@
 # Dinamica_Day_7
-Código desenvolvido para dinâmica de recomendação
+Foi desenvolvida uma recomendação dos n produtos mais próximos ao escolher um produto aleatório comercializado pela empresa
